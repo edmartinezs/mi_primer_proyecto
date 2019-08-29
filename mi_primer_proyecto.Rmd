@@ -1,0 +1,10 @@
+---
+title: "mi_primer_proyecti"
+author: "elvis martinez"
+date: "29 de agosto de 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
